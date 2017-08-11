@@ -19,6 +19,8 @@
     "react": "15.3.2",
     "react-addons-css-transition-group": "15.3.2",
     "react-dom": "15.3.2",
+    "react-google-charts": "^1.5.5",
+    "react-googlecharts": "^1.4.0",
     "react-router": "4.0.0-alpha.4"
   },
   "scripts": {

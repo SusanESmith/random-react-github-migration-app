@@ -1,5 +1,6 @@
 import React from 'react';
 import GitRepoComponent from './GitRepoComponent';
+import GoogleChartComponent from './GoogleChartComponent';
 
 
 class GitRepoWrapperComponent extends React.Component {
@@ -19,6 +20,7 @@ class GitRepoWrapperComponent extends React.Component {
       <div>
         {this.state.repos}
       </div>
+      <GoogleChartComponent/>
     </div>
     )
   }
